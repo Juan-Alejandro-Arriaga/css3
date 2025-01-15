@@ -7,6 +7,7 @@
 project root.)
 * Be concise and to the point 
 # references
-* Link to any supporting GitHub issues or helpful documentation to add some context (e.g. stackoverflow) 
+* Link to any supporting GitHub issues or helpful documentation to add some context (e.g. stackoverflow)
+* Add an screenshot to preview the graphical implementation
 * Or external urls ( 
 e.g https://github.com/cloudposse/terraform-aws-elasticache-redis/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
