@@ -8,17 +8,17 @@ div {
 }
 /*Selectores de inicio*/
 a[title^='Youtube'] {
-    font-size: 20px;
-    text-decoration: none;
     color: rgb(255 , 0, 0 );
     cursor: crosshair;
-    
+    font-size: 20px;
+    text-decoration: none;
 }
 /*Selectores de final*/
 a[title$='Edomex'] {
+    color: rgb(161, 35, 16);
     font-size: 30px;
     text-decoration: overline;
-    color: rgb(161, 35, 16);
+    
 }
 /*Selectores arbitrarios*/
 a[title*='Boy'] {
