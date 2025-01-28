@@ -1,0 +1,22 @@
+@font-face {
+    font-family: GoW;
+    src: 
+        url('fuentes/GODOFWAR.ttf') 
+        format('truetype');
+}
+@font-face {
+    font-family: Halo;
+    src:
+        url('fuentes/Halo.ttf')
+        format('truetype');
+}
+h1 {
+    color: rgb(255,0,0);
+    font-family: GoW;
+    font-size: 100px;
+}
+h2 {
+    color: rgb(0,0,255);
+    font-family: Halo;
+    font-size: 100px;
+}
