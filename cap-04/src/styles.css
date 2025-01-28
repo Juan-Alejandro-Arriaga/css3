@@ -1,0 +1,20 @@
+html:root {
+    background: rgb(230, 225, 213);
+} 
+p:only-of-type {
+    font-weight: bold;
+    
+}
+P:only-child {
+    color: rgb(0,0 ,255 );
+}
+#click-to-me::selection {
+    background: black;
+    color: white;
+}
+#input-age:in-range {
+    background: rgb(77, 240, 101);
+}
+#input-age:out-of-range {
+    background: rgb(222, 24, 54);
+}
