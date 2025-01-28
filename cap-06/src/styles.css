@@ -1,0 +1,13 @@
+#cuadro {
+    background: rgb(255,0,0);
+    height: 50px;
+    width: 50px;
+}
+p{  
+    hyphens: auto;  
+    text-align: right;
+    width: 35%;
+}
+div {
+    text-align: center;
+}
