@@ -4,12 +4,14 @@
     height: auto;
     width: 100%;
 }
+
 .div-2 {
     column-count: 8;
     column-rule: 25em dashed rgb(100,100,200);
     height: auto;
     width: 100%;
 }
+
 p {
     background: rgb(70,150,155);
     column-span: all;
