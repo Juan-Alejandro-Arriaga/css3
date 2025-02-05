@@ -7,16 +7,19 @@
     height: 200px;
     width: 50%;
 }
+
 .canv-2 {
     background: url(imagenes/bwuwm.jpg) repeat-x 10% 10% / 10% auto;
     height: 200px;
     width: 100%;
 }
+
 .canv-3 {
     background: url(imagenes/bwutier.jpg) space;
     height: 300px;
     width: 100%;
 }
+
 .canv-4 {
     background: url(imagenes/mcqueen.jpg) round;
     height: 100px;
