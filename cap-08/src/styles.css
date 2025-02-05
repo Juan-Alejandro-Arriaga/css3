@@ -1,0 +1,27 @@
+.canv-1 {
+    background: 
+        url(imagenes/rayomartin.jpg) no-repeat 0%,
+        url(imagenes/mcqueen.jpg) no-repeat 50%,
+        url(imagenes/bwutier.jpg) no-repeat 100%;
+    border: 1em solid rgb(0,0,0);
+    height: 200px;
+    width: 50%;
+}
+
+.canv-2 {
+    background: url(imagenes/bwuwm.jpg) repeat-x 10% 10% / 10% auto;
+    height: 200px;
+    width: 100%;
+}
+
+.canv-3 {
+    background: url(imagenes/bwutier.jpg) space;
+    height: 300px;
+    width: 100%;
+}
+
+.canv-4 {
+    background: url(imagenes/mcqueen.jpg) round;
+    height: 100px;
+    width: 100%;
+}
