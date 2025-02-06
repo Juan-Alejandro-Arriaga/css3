@@ -1,0 +1,53 @@
+div {
+    border: 1px solid black;
+    height: 200px;
+    width: 100%;
+}
+
+.div-1 {
+    background: 
+        linear-gradient(
+            rgb(0,0,0),
+            rgb(255,255,255));
+}
+
+.div-2 {
+    background: 
+        linear-gradient(
+            to top left,
+            rgb(0,100,155),
+            rgb(255,255,255));
+}
+
+.div-3 {
+    background: 
+        linear-gradient(
+            45deg,
+            rgb(150,100,155),
+            rgb(255,255,255)
+        );
+}
+
+.div-4 {
+    background: 
+        radial-gradient(
+            circle ,
+            rgb(0,0,0) 50%,
+            rgb(180,200,130)
+        );
+}
+
+.div-5 {
+    background: 
+        linear-gradient(
+            to top right,
+            rgb(140,50,255),
+            rgb(200,120,50)),
+        
+        radial-gradient(
+            circle ,
+            rgb(131, 194, 107),
+            rgb(131, 137, 212)
+        );
+    background-blend-mode: overlay;
+}
