@@ -55,7 +55,7 @@ Las paradas de color te permiten colocar reglas establecidas a los colores como 
 ```
 
 ### Repetición de gradientes lineales
-Se puede usar el atributo `repeating-linear-gradient()` para repetir el degradado aceptando los mismos valores de `linear-gradient()` añadiendo que requiere un valor de longitud o porcentaje colocado en el color final.
+Se puede usar la propiedad `repeating-linear-gradient()` para repetir el degradado aceptando los mismos valores de `linear-gradient()` añadiendo que requiere un valor de longitud o porcentaje colocado en el color final.
 ##### Ejemplo
 ```css
     E {
@@ -151,7 +151,7 @@ Es similar a los degradados lineales aceptando los mismos valores de la siguient
 Y de igual manera se pueden colocar valores indicando el rango de distancia que tendrá cada color.
 
 ### Gradientes radiales repetitivos
-Con el atributo `repeating-linear-gradient()` y funciona de la misma manera que lo hace con `linear-gradient()`.
+Con la propiedad `repeating-linear-gradient()` y funciona de la misma manera que lo hace con `linear-gradient()`.
 ##### Sintaxis:
 ```css
     E {
