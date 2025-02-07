@@ -1,0 +1,9 @@
+.la-caja {
+    align-content: center;
+    border: 5px solid rgb(0,0,0);
+    box-sizing: border-box;
+    height: 100px;
+    background-color: rgb(150,150,225);
+    text-align: center;
+    width: 50%;
+}
