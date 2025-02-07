@@ -1,0 +1,32 @@
+div {
+    align-content: center;
+    font-size: 30px;
+    text-align: center;
+}
+.contenedor-grid {
+    background: rgb(100,100,100);
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(1,1fr);
+    height: 500px;
+    width: 100%;
+}
+.coso-grid {
+    background: rgb(200,200,200);
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+}
+.coso-1 {
+    background: rgb(255,0,0);
+    grid-area: 1 / 1 /1 / 1;
+    height: 30%;
+    width: 50%;
+    z-index: 2;
+}
+.coso-2 {
+    background: rgb(0,0,255);
+    grid-area: 1 / 1 /1 / 1;
+    height: 100%;
+    width: 100%;
+}
